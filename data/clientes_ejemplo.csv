@@ -1,0 +1,16 @@
+cliente,distrito,lat,lon,ventas,categoria
+Tienda El Sol,Miraflores,-18.1180,-70.2936,45000,Retail
+Distribuidora Lima,San Isidro,-12.0971,-77.0365,82000,Distribuidora
+Comercial Norte,Los Olivos,-11.9933,-77.0694,31000,Retail
+Supermercado Sur,San Juan de Miraflores,-12.1572,-76.9728,67000,Supermercado
+Bodega Central,Cercado de Lima,-12.0432,-77.0282,28000,Bodega
+Tienda Moderna,Surco,-12.1470,-76.9958,53000,Retail
+Distribuidora Este,Ate,-12.0267,-76.9106,44000,Distribuidora
+Comercial Oeste,Callao,-12.0565,-77.1219,39000,Retail
+Tienda Norte,Comas,-11.9391,-77.0503,25000,Bodega
+Mega Tienda,La Molina,-12.0831,-76.9408,91000,Supermercado
+Bodega Miraflores,Miraflores,-18.1190,-70.2946,18000,Bodega
+Tienda San Borja,San Borja,-12.1063,-76.9996,47000,Retail
+Distribuidora Sur,Villa El Salvador,-12.2169,-76.9372,35000,Distribuidora
+Comercial Lince,Lince,-12.0839,-77.0358,29000,Retail
+Tienda Barranco,Barranco,-12.1453,-77.0214,41000,Retail
